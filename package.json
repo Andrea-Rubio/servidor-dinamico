@@ -1,0 +1,15 @@
+{
+  "name": "sitodinamico",
+  "version": "1.0.0",
+  "description": "sitio web dinamico con hbc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Rubio Padilla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
+}
